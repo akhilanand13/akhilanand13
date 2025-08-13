@@ -48,3 +48,4 @@
 ###
 
 <br clear="both">
+![Snake animation](https://raw.githubusercontent.com/akhilanand13/output/main/snake.svg)
