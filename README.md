@@ -46,6 +46,9 @@ If you're a recruiter, let's connect — if you're a fellow student, let's colla
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/akhilanand13/akhilanand13/output/snake.svg)
+
+
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilanand13&theme=dracula&hide_border=false&area=true" height="250" alt="activity-graph" />
