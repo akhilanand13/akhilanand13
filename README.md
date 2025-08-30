@@ -4,7 +4,6 @@ if(visitor == "recruiter") connect();
 else if(visitor == "student") collaborate();
 else exploreProjects();
 </pre>
-
 <!-- Social Icons -->
 <div>
   <a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
@@ -17,51 +16,68 @@ else exploreProjects();
 
 ---
 
-###Tech Stack
-<div align="center">
-<table>
-  <tr>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilanand13&layout=compact&theme=dracula&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&border_color=44475a&card_width=300&langs_count=2&custom_title=🚀%20Programming%20Languages&hide=html,css,javascript,typescript,shell,makefile,dockerfile" />
-    </td>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilanand13&layout=compact&theme=dracula&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&border_color=44475a&card_width=300&langs_count=5&custom_title=🌐%20Web%20%26%20Full%20Stack&hide=java,python,c,c++,go,rust" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilanand13&layout=compact&theme=dracula&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&border_color=44475a&card_width=300&langs_count=1&custom_title=☁️%20Cloud%20Computing&hide=html,css,javascript,java,python,typescript" />
-    </td>
-    <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilanand13&layout=compact&theme=dracula&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&border_color=44475a&card_width=300&langs_count=4&custom_title=🔧%20DevOps&hide=html,css,javascript,java,python,typescript" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilanand13&layout=compact&theme=dracula&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&border_color=44475a&card_width=300&langs_count=1&custom_title=🗄️%20Databases&hide=html,css,javascript,java,python,typescript" />
-    </td>
-  </tr>
-</table>
+Tech Stack
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  <!-- Programming Languages -->
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <div>Java (Proficient)</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <div>Python (Intermediate)</div>
+  </div>
+  <!-- Web & Full Stack -->
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+    <div>HTML</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+    <div>CSS</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <div>JavaScript</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+    <div>Node.js</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+    <div>MongoDB</div>
+  </div>
+  <!-- Cloud Computing -->
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+    <div>AWS</div>
+  </div>
+  <!-- DevOps -->
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <div>Git</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+    <div>GitHub</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+    <div>Docker</div>
+  </div>
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+    <div>Kubernetes</div>
+  </div>
+  <!-- Databases -->
+  <div style="text-align: center; width: 120px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+    <div>SQL</div>
+  </div>
 </div>
+
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilanand13&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanand13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div>
-
----
 
 ![Snake animation](https://raw.githubusercontent.com/akhilanand13/akhilanand13/output/snake.svg)
 
-
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilanand13&theme=dracula&hide_border=false&area=true" height="250" alt="activity-graph" />
-</div>
-
----
-
-### 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/akhilanand13/output/main/snake.svg)
