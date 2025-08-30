@@ -15,64 +15,58 @@ else exploreProjects();
 </div>
 
 ---
+<div style="text-align: center; margin-bottom: 30px;">
+  <h2 style="font-size: 28px; color: #333;">Tech Stack</h2>
+</div>
 
-Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <!-- Programming Languages -->
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" /> <div>Java (Proficient)</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- Programming Languages Card -->
+  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-bottom: 15px; color: #555;">Programming Languages</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    </div>
   </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <div>Python (Intermediate)</div>
+
+  <!-- Web & Full Stack Card -->
+  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-bottom: 15px; color: #555;">Web & Full Stack</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+    </div>
   </div>
-  <!-- Web & Full Stack -->
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-    <div>HTML</div>
+
+  <!-- DevOps Card -->
+  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-bottom: 15px; color: #555;">DevOps</h3>
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+    </div>
   </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-    <div>CSS</div>
+
+  <!-- Cloud Card -->
+  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-bottom: 15px; color: #555;">Cloud</h3>
+    <div style="display: flex; justify-content: center; gap: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="AWS" />
+    </div>
   </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <div>JavaScript</div>
-  </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-    <div>Node.js</div>
-  </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-    <div>MongoDB</div>
-  </div>
-  <!-- Cloud Computing -->
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
-    <div>AWS</div>
-  </div>
-  <!-- DevOps -->
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-    <div>Git</div>
-  </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-    <div>GitHub</div>
-  </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-    <div>Docker</div>
-  </div>
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-    <div>Kubernetes</div>
-  </div>
-  <!-- Databases -->
-  <div style="text-align: center; width: 120px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-    <div>SQL</div>
+
+  <!-- Databases Card -->
+  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-bottom: 15px; color: #555;">Databases</h3>
+    <div style="display: flex; justify-content: center; gap: 15px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+    </div>
   </div>
 </div>
 
