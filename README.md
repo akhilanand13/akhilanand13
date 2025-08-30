@@ -5,10 +5,15 @@ else if(visitor == "student") collaborate();
 else exploreProjects();
 </pre>
 
-<a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
+<!-- Social Icons -->
+<div>
+  <a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo" style="vertical-align: middle;" />
+  </a>
+  <a href="https://www.instagram.com/akhil_anand13" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram logo" style="vertical-align: middle; margin-left:12px;" />
+  </a>
+</div>
 ---
 
 ### 🚀 Tech Stack
