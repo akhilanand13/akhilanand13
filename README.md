@@ -1,5 +1,9 @@
-<h2 align="left">Hi 👋, I'm Akhil Anand Balu, a Computer Science Engineering major from India.  
-If you're a recruiter, let's connect — if you're a fellow student, let's collaborate!</h2>
+<h2 align="left">Hi, I'm Akhil Anand Balu, a Computer Science Engineering major.</h2>
+<pre>
+if(visitor == "recruiter") connect();
+else if(visitor == "student") collaborate();
+else exploreProjects();
+</pre>
 
 <a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
