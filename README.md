@@ -15,60 +15,70 @@ else exploreProjects();
 </div>
 
 ---
-<div style="text-align: center; margin-bottom: 30px;">
-  <h2 style="font-size: 28px; color: #333;">Tech Stack</h2>
-</div>
+<h2>Tech Stack</h2>
+<!-- Programming Languages -->
+<h3>Programming Languages</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br>Python
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<!-- Web & Full Stack -->
+<h3>Web</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br>MongoDB
+    </td>
+  </tr>
+</table>
 
-  <!-- Programming Languages Card -->
-  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-bottom: 15px; color: #555;">Programming Languages</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    </div>
-  </div>
+<!-- DevOps -->
+<h3>DevOps</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/><br>Kubernetes
+    </td>
+  </tr>
+</table>
 
-  <!-- Web & Full Stack Card -->
-  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-bottom: 15px; color: #555;">Web & Full Stack</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-    </div>
-  </div>
-
-  <!-- DevOps Card -->
-  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-bottom: 15px; color: #555;">DevOps</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-    </div>
-  </div>
-
-  <!-- Cloud Card -->
-  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-bottom: 15px; color: #555;">Cloud</h3>
-    <div style="display: flex; justify-content: center; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="AWS" />
-    </div>
-  </div>
-
-  <!-- Databases Card -->
-  <div style="background-color: #f7f7f7; border-radius: 12px; padding: 20px; min-width: 180px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-bottom: 15px; color: #555;">Databases</h3>
-    <div style="display: flex; justify-content: center; gap: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-    </div>
-  </div>
-</div>
+<!-- Databases -->
+<h3>Databases</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br>MySQL
+    </td>
+  </tr>
+</table>
 
 ---
 
