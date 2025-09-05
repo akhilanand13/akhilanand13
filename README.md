@@ -6,17 +6,31 @@ else exploreProjects();
 </pre>
 <!-- Social Icons -->
 <h2>Connect with me</h2>
-<div>
-  <a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo" style="vertical-align: middle;" />
-  </a>
-  <a href="https://www.instagram.com/akhil_anand13" target="_blank" style="margin-left: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram logo" style="vertical-align: middle;" />
-  </a>
-  <a href="https://leetcode.com/u/akhil_anand13/" target="_blank" style="margin-left: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" alt="LeetCode logo" style="vertical-align: middle;" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
+        <div style="width: 60px; height: 60px; background-color: #0A66C2; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="35" alt="LinkedIn logo" />
+        </div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/akhil_anand13" target="_blank">
+        <div style="width: 60px; height: 60px; background-color: #C13584; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram logo" />
+        </div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/akhilanand13" target="_blank">
+        <div style="width: 60px; height: 60px; background-color: #FFA116; display: flex; align-items: center; justify-content: center; border-radius: 8px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" alt="LeetCode logo" />
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
