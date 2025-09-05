@@ -1,18 +1,23 @@
-<h2 align="left">Hi, I'm Akhil Anand Balu, a Computer Science Engineering major.</h2>
+<h2 align="left">Hi, I'm Akhil Anand Balu. A Computer Science Engineering major.</h2>
 <pre>
 if(visitor == "recruiter") connect();
 else if(visitor == "student") collaborate();
 else exploreProjects();
 </pre>
 <!-- Social Icons -->
+<h2>Connect with me</h2>
 <div>
   <a href="https://www.linkedin.com/in/akhil-anand-balu" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn logo" style="vertical-align: middle;" />
   </a>
-  <a href="https://www.instagram.com/akhil_anand13" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram logo" style="vertical-align: middle; margin-left:12px;" />
+  <a href="https://www.instagram.com/akhil_anand13" target="_blank" style="margin-left: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="35" alt="Instagram logo" style="vertical-align: middle;" />
+  </a>
+  <a href="https://leetcode.com/akhilanand13" target="_blank" style="margin-left: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35" alt="LeetCode logo" style="vertical-align: middle;" />
   </a>
 </div>
+
 
 ---
 <h2>Tech Stack</h2>
